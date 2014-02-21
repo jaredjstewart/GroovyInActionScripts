@@ -1,6 +1,5 @@
-/**
- * Created by Jared on 1/3/14.
- */
+package com.groovyinaction.chapter1
+
 import static groovyx.gpars.GParsPool.withPool
 
 def urls = ['http://groovy.codehaus.org',
